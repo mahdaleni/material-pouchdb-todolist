@@ -15,7 +15,7 @@
         .config(AppConfig)
         .constant('cfg', {
             'pouchDBName': 'tasks',
-            'pouchDBRemote': 'https://couchdb-258122.smileupps.com/',
+            'pouchDBRemote': 'http://localhost:5984/',
             // 'pouchDBRemote': 'http://localhost:5984/'
         });
 
