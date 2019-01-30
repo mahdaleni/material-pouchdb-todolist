@@ -15,7 +15,7 @@
         .config(AppConfig)
         .constant('cfg', {
             'pouchDBName': 'tasks',
-            'pouchDBRemote': 'https://bdelaforest.iriscouch.com/',
+            'pouchDBRemote': 'https://tender-shannon-15f846.netlify.com/',
             // 'pouchDBRemote': 'http://localhost:5984/'
         });
 
